@@ -31,15 +31,18 @@ li {
 
 .bot {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
+}
+
+.bot .left {
+    width: 450px;
 }
 
 .right img{
-    max-height: auto;
+    max-height: 80%;
     width: auto;
 }
 
 .left p {
-    font-size: 14px;
-    
+    font-size: 14px;   
 }
