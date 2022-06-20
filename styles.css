@@ -38,12 +38,14 @@ li {
     width: 450px;
     height: 300px;
     padding: 50px;
+    border-radius: 25px;
     background-color: #161e29;
 }
 
 .right img{
     max-height: 80%;
     width: auto;
+    border-radius: 25px;
 }
 
 .left p {
