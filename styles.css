@@ -30,5 +30,16 @@ li {
 }
 
 .bot {
+    display: flex;
+    justify-content: space-around;
+}
+
+.right img{
+    max-height: auto;
+    width: auto;
+}
+
+.left p {
+    font-size: 14px;
     
 }
