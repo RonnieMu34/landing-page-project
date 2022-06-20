@@ -92,3 +92,7 @@ li {
     text-align: center;
     gap: 10px;
 }
+
+.quote {
+    background-color: #E5E7EB;
+}
