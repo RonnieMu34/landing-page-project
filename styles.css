@@ -8,6 +8,8 @@ body {
 }
 
 .header {
+    display: flex;
+    flex-direction: column;
     background-color: #1F2937;
     width: 100%;
     padding: 0;
