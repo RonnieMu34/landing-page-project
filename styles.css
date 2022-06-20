@@ -37,20 +37,20 @@ li {
 
 .bot .left {
     width: 450px;
-    height: 480px;
+    height: 400px;
     padding: 50px;
     border-radius: 25px;
     background-color: #161e29;
 }
 
 .right img{
-    width: 400px;
-    height: 600px;
+    width: 300px;
+    height: 450px;
     border-radius: 25px;
 }
 
 .left p {
-    font-size: 20px;   
+    font-size: 18px;   
 }
 
 .sign-up-button {
