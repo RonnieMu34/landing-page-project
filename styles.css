@@ -36,6 +36,9 @@ li {
 
 .bot .left {
     width: 450px;
+    height: 300px;
+    padding: 50px;
+    background-color: #161e29;
 }
 
 .right img{
