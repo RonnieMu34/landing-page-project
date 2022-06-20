@@ -16,3 +16,17 @@ body {
     margin: 0;
     color: white;
 }
+
+ul {
+    display: flex;
+    list-style: none;
+}
+
+li {
+    margin-right: 50px;
+}
+
+.header .top {
+    display: flex;
+    justify-content: space-between ;
+}
