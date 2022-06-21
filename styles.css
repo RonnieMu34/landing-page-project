@@ -95,6 +95,8 @@ li {
 
 .quote {
     background-color: #E5E7EB;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 
 .quote p {
