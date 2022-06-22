@@ -132,3 +132,9 @@ li {
     flex-grow: 0;
     border-radius: 25px;
 }
+
+.content .right {
+    border: 2px solid white;
+    padding: 0 20px;
+    border-radius: 25px;
+}
