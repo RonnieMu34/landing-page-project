@@ -115,6 +115,9 @@ li {
     display: flex;
     justify-content: center;
     align-items: center;
+    height: 400px;
+    width: auto;
+
 }
 
 .call-action .content {
@@ -126,4 +129,5 @@ li {
     padding-left: 100px;
     padding-right: 100px;
     color: white;
+    flex-grow: 0;
 }
