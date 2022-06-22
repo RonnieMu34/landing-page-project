@@ -110,3 +110,9 @@ li {
     justify-content: flex-end;
     margin-right: 800px;
 }
+
+.call-action {
+    display: flex;
+    justify-content: space-evenly;
+    width: 500px;
+}
