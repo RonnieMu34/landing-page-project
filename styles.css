@@ -130,4 +130,5 @@ li {
     padding-right: 100px;
     color: white;
     flex-grow: 0;
+    border-radius: 25px;
 }
