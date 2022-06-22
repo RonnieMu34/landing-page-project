@@ -142,4 +142,9 @@ li {
 .footer {
     display: flex;
     justify-content: center;
+    align-items: center;
+    background-color: #161e29;
+    color: white;
+    height: 75px;
+    width: auto;
 }
