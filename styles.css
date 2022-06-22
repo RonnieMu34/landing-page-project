@@ -113,8 +113,11 @@ li {
 
 .call-action {
     display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .call-action .content {
     display: flex;
+    align-items: center;
 }
