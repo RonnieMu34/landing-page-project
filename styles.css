@@ -120,4 +120,10 @@ li {
 .call-action .content {
     display: flex;
     align-items: center;
+    background-color: #3882F6;
+    gap: 85px;
+    padding: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+    color: white;
 }
